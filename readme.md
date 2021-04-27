@@ -10,5 +10,5 @@ Windows:
 
 Linux:
 1.	Navigate to the folder “Pong” and enter the command
-    ```./build.sh```
+    >./build.sh
 2.	Follow steps 2-4 from above.
