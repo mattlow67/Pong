@@ -1,6 +1,8 @@
 ## Pong
 An implementation of the popular game *Pong*. Developed in ```C#``` using ```windows.forms```, ```drawing```, and ```timers``` libraries. Timer objects control the ball’s speed and the paddles’ movement. Each frame is drawn one-by-one and displayed at a high rate, mimicking the motion of objects. The starting angle of the ball’s trajectory is intentionally programmed to avoid assigning values near *90* and *270* degrees; avoiding acute angles prevents games wherein the ball bounces in a highly predictable manner.
 
+https://user-images.githubusercontent.com/69742757/116470307-19351700-a828-11eb-844a-c347603fa8e8.mp4
+
 ## How to Play
 Windows:
 1.	Execute Pong.exe.
